@@ -1,6 +1,6 @@
 # Node-RED-weather-dashboard
 
-This project was created for academic purposes on the subject of 'Web Information Systems' at the Aristotle University of Thessaloniki.
+This project was created for academic purposes on the subject of 'Internet of Things' at the Aristotle University of Thessaloniki.
 
 In the frame of this coursework we designed and implemented an IoT (Internet of Things) platform for analysis of weather conditions using the Node-RED platform. Node-RED allows us to wire together nodes to create flows, which carry out our programming task. We used the openweathermap node-red node that gets weather report from OpenWeatherMap. An API key is required to use this node.
 
